@@ -8,7 +8,8 @@ Varnish Cache is released every 6 months.
 ====================== ============ ===========  ===========
 Release                Date         Notes        Download
 ====================== ============ ===========  ===========
-:ref:`rel6.1.1`        2018-10-26   Fresh        :download:`varnish-6.1.1.tgz <varnish-6.1.1.tgz>`
+:ref:`rel6.2.0`        2019-03-15   Fresh        :download:`varnish-6.2.0.tgz <varnish-6.2.0.tgz>`
+:ref:`rel6.1.1`        2018-10-26   Retired      :download:`varnish-6.1.1.tgz <varnish-6.1.1.tgz>`
 :ref:`rel6.0.3`        2019-02-19   Supported    :download:`varnish-6.0.3.tgz <varnish-6.0.3.tgz>`
 :ref:`rel5.2.1`        2017-11-14   Retired      :download:`varnish-5.2.1.tgz <varnish-5.2.1.tgz>`
 :ref:`rel5.1.3`        2017-08-02   Retired      :download:`varnish-5.1.3.tgz <varnish-5.1.3.tgz>`
@@ -59,13 +60,13 @@ Here is a list of the ones we know about:
 Cloud images
 ------------
 
-Varnish Cache is also made available by Varnish Software in the following 
+Varnish Cache is also made available by Varnish Software in the following
 clouds providers:
 
 Amazon Web Services (AWS EC2)
 .............................
 
-Varnish Cache is available on Amazon Web Services (AWS) Elastic Compute Cloud 
+Varnish Cache is available on Amazon Web Services (AWS) Elastic Compute Cloud
 (EC2). Here is a list of the current images available:
 
 * `Varnish Cache 4 on Ubuntu LTS 14.04 on AWS`_
@@ -81,7 +82,7 @@ Varnish Cache is available on Amazon Web Services (AWS) Elastic Compute Cloud
 Microsoft Azure
 ...............
 
-Varnish Cache is available on Microsoft Azure. 
+Varnish Cache is available on Microsoft Azure.
 Here is a list of the current images available:
 
 * `Varnish Cache 4 and 5 on Ubuntu LTS 14.04 on Azure`_
@@ -93,7 +94,7 @@ Here is a list of the current images available:
 Google Cloud Platform (GCP)
 ...........................
 
-Varnish Cache is available on Google Cloud Platform (GCP). 
+Varnish Cache is available on Google Cloud Platform (GCP).
 Here is a list of the current images available:
 
 * `Varnish Cache 4 on Ubuntu LTS 14.04 on GCP`_
@@ -113,6 +114,7 @@ All the releases
 .. toctree::
 	:maxdepth: 1
 
+	rel6.2.0
 	rel6.1.1
 	rel6.1.0
 	rel6.0.3

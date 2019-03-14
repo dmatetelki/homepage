@@ -8,6 +8,14 @@ Varnish HTTP Cache
 What is happening
 -----------------
 
+2019-03-15 - Varnish 6.2.0 released
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+We are happy to announce the release of :ref:`rel6.2.0`.
+
+More information is available in the
+`Change log <https://github.com/varnishcache/varnish-cache/blob/6.2/doc/changes.rst>`_
+
 2019-02-20 - Maintenance release: Varnish Cache 6.0.3
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
